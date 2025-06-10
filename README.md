@@ -23,9 +23,3 @@ Este projeto automatiza o **web scraping** de uma página da web e envia os dado
 - **email-scrap/main.py**: Executa todas as funcionalidades do projeto.  
 - **email-scrap/requisitos.txt**: Lista as dependências necessárias para o projeto.  
 - **email-scrap/README.md**: Documentação do projeto.  
-
-## 🔧 Configuração do Arquivo `.env`  
-
-1. **Crie um arquivo `.env`** na raiz do projeto.  
-2. **Copie o conteúdo** do arquivo `.env.example` para o `.env`.  
-3. **Substitua `xxxxxxxx`** pela sua senha real de e-mail.  
